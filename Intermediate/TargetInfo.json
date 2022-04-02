@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ue4Study",
+			"Path": "C:\\work\\Ue4Study\\Source\\Ue4Study.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Ue4StudyEditor",
+			"Path": "C:\\work\\Ue4Study\\Source\\Ue4StudyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

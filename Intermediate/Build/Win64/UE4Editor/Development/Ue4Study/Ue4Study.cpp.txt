@@ -1,0 +1,2 @@
+C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\Definitions.Ue4Study.h
+C:\work\Ue4Study\Source\Ue4Study\Ue4Study.h

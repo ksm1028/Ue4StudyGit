@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\work\\Ue4Study\\Source\\Ue4Study\\Ue4Study.Build.cs",
+		"C:\\work\\Ue4Study\\Source\\Ue4Study.Target.cs",
+		"C:\\work\\Ue4Study\\Source\\Ue4StudyEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

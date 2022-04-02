@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ue4Study.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AE4F7DE8-E6A0-402F-BD02-20E3E3561291}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ue4Study.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Ue4StudyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{43578A5B-D280-4D02-A906-AF8478E1EA85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ue4Study">
+      <UniqueIdentifier>{7B385859-BEBD-4579-843C-31EE1E48FDA6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ue4Study\Ue4Study.Build.cs">
+      <Filter>Source\Ue4Study</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ue4Study\Ue4Study.cpp">
+      <Filter>Source\Ue4Study</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ue4Study\Ue4Study.h">
+      <Filter>Source\Ue4Study</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ue4Study\Ue4StudyGameModeBase.cpp">
+      <Filter>Source\Ue4Study</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ue4Study\Ue4StudyGameModeBase.h">
+      <Filter>Source\Ue4Study</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Ue4Study.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\work\Ue4Study\Intermediate\Build\Win64\Ue4StudyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\Ue4Study.cpp.obj"
+"C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\Ue4StudyGameModeBase.cpp.obj"
+"C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\Ue4Study.init.gen.cpp.obj"
+"C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\Ue4StudyGameModeBase.gen.cpp.obj"
+"C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\Default.rc2.res"
+/OUT:"C:\work\Ue4Study\Intermediate\Build\Win64\UE4Editor\Development\Ue4Study\UE4Editor-Ue4Study.lib"
+/INCLUDE:IMPLEMENT_MODULE_Ue4Study
